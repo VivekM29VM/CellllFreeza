@@ -15,6 +15,13 @@ public class Z_Warriors {
 		
 		System.out.println("Beerus");
 		
+		System.out.println("Gogeta");
+		
+		
+		System.out.println("Vegeto");
+		
+		
+		
 	}
 
 }
